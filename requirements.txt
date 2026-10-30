@@ -1,0 +1,10 @@
+openai
+python-dotenv
+httpx
+tiktoken
+pandas
+matplotlib
+rich
+fastapi
+uvicorn
+pydantic
